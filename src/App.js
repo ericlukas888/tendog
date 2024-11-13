@@ -23,13 +23,13 @@ function App() {
             nostalgia of childhood gaming to Solana.
           </div>
           <div className="flex items-center justify-center gap-4">
-            <a href="/" target="_blank" className="">
+            <a href="https://x.com/tendogSOL" target="_blank" className="">
               <img src="/images/x.png" width={50} height={50} alt="icon" />
             </a>
-            <a href="/" target="_blank" className="">
+            <a href="https://t.me/tendogSOL" target="_blank" className="">
               <img src="/images/tg.png" width={50} height={50} alt="icon" />
             </a>
-            <a href="/" target="_blank" className="">
+            <a href="https://dexscreener.com/solana/4vi4teijfdxwe1mbclrqqwd6sebezfsyd8ft9bzublk5" target="_blank" className="">
               <img src="/images/dex.png" width={50} height={50} alt="icon" />
             </a>
           </div>
